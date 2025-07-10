@@ -1,20 +1,22 @@
-# 🚀 Edabit Python Problemas  
+# 🚀 Edabit Python Problems
 
-Este repositorio contiene soluciones a desafíos de **Edabit** en **Python**. Los ejercicios están organizados por niveles de dificultad y cubren diversos conceptos de programación, lógica y estructuras de datos.  
+This repository contains solutions to **Edabit** challenges in **Python**. The exercises are organized by difficulty levels and cover various programming concepts, logic, and data structures.
 
-## 📌 Niveles de dificultad  
-- 🟢 **Very Easy**  
-- 🔵 **Easy**  
-- 🟡 **Medium**  
-- 🔴 **Hard**  
-- 🟣 **Very Hard**  
-- ⚫ **Expert**  
+## 📌 Difficulty Levels
 
-## 📂 Estructura del repositorio  
-- 📂 `very_easy/` → Ejercicios de nivel muy fácil  
-- 📂 `easy/` → Ejercicios de nivel fácil  
-- 📂 `medium/` → Ejercicios de nivel medio  
-- 📂 `hard/` → Ejercicios de nivel difícil  
-- 📂 `very_hard/` → Ejercicios de nivel muy difícil  
-- 📂 `expert/` → Ejercicios de nivel experto  
-- 📄 `README.md` → Documentación del repositorio
+* 🟢 **Very Easy**
+* 🔵 **Easy**
+* 🟡 **Medium**
+* 🔴 **Hard**
+* 🟣 **Very Hard**
+* ⚫ **Expert**
+
+## 📂 Repository Structure
+
+* 📂 `very_easy/` → Very easy level exercises
+* 📂 `easy/` → Easy level exercises
+* 📂 `medium/` → Medium level exercises
+* 📂 `hard/` → Hard level exercises
+* 📂 `very_hard/` → Very hard level exercises
+* 📂 `expert/` → Expert level exercises
+* 📄 `README.md` → Repository documentation
