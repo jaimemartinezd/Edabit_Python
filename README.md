@@ -19,4 +19,5 @@ This repository contains solutions to **Edabit** challenges in **Python**. The e
 * 📂 `hard/` → Hard level exercises
 * 📂 `very_hard/` → Very hard level exercises
 * 📂 `expert/` → Expert level exercises
+* 📂 `pynative/` → [PYnative](pynative.com) basic python exercises
 * 📄 `README.md` → Repository documentation
