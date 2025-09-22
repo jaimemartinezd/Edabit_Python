@@ -1,6 +1,6 @@
-# 🚀 Edabit Python Problems
+# 🚀 Python Problems
 
-This repository contains solutions to **Edabit** challenges in **Python**. The exercises are organized by difficulty levels and cover various programming concepts, logic, and data structures.
+This repository contains solutions to **Python** challenges. The exercises are organized by difficulty levels and cover various programming concepts, logic, and data structures.
 
 ## 📌 Difficulty Levels
 
